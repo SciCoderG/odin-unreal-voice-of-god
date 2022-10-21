@@ -1,0 +1,3 @@
+[submodule "VoiceOfGod/Plugins/Odin"]
+	path = VoiceOfGod/Plugins/Odin
+	url = git@github.com:4Players/odin-sdk-unreal.git
